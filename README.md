@@ -251,8 +251,8 @@ FarmXChain/
 ### Installation & Setup
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/its-vikash-Kushwaha/FarmXChain-finalProject.git
-    cd FarmXChain
+   git clone https://github.com/divyaoncode/FarmXchain.git
+   cd FarmXchain
     ```
 2.  **Backend Configuration**
     - Edit `FarmXChain/src/main/resources/application.properties` with your MySQL and Blockchain RPC details.
